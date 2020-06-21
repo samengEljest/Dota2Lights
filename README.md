@@ -1,5 +1,5 @@
 # Dota2Lights
-Applicaation built in C# to connect Philips Hue lights to the game Dota 2.
+An application built in C# to connect Philips Hue lights to the game Dota 2.
 
 
 To run the program unpack Dota2Lights.zip. Double click on DotaLightApp.exe.
